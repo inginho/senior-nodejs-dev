@@ -1,0 +1,1 @@
+Zna bardzo dobrze pojęcie scope i closure (w szczególności zna ryzyka z tym związane, memory leak)

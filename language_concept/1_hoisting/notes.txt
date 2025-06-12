@@ -1,0 +1,2 @@
+1. Wie co to hoisting.
+

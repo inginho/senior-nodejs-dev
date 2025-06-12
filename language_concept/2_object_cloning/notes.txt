@@ -1,0 +1,2 @@
+Wie w jaki sposób skopiować obiekt w JS (jak wygląda to low-level – złożoność)
+
