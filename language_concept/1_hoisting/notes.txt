@@ -1,2 +1,11 @@
 1. Wie co to hoisting.
 
+Jest to domyślne zachowanie JAvascript'u polegające na tym że deklaracje zmiennych oraz funkcji są przenoszone (windowane)
+w góre ich scope (w zależności od rodzaju global scope albo function scope). Oznacza to że są one przetwarzane jeszcze przed wykonanie kodu.
+
+Co podlega hoistingowi (co jest windowane)?
+   rodz      - hoi. - wartość ustawiona
+1. var       - tak  - undefined
+2. let/const - tak  - not initialized TDZ (Temporal Dead Zone) Reference Error
+3. fun dekl. - tak  - pełna funkcja
+4. fun exp.  - nie  - not initialized Reference Error
