@@ -1,0 +1,1 @@
+Potrafi wyjaśnić jak działa prototype w JS
